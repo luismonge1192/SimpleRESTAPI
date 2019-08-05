@@ -8,5 +8,5 @@ Build Automation Tool:Gradle 5.5.1
 1) in the console type gradle build
 2) next type gradle bootRun
 3) open your choice of browser
-4) Type http://localhost:8880/
+4) Type http://localhost:8880/ in your browser
 5) Explore
